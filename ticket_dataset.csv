@@ -1,0 +1,51 @@
+ticket_text,category
+Invoice not received for last month,Billing
+Need refund for duplicate payment,Billing
+Payment failed but amount deducted,Billing
+Incorrect bill generated,Billing
+Subscription charged twice,Billing
+Request GST invoice,Billing
+Unable to download invoice,Billing
+Billing amount is incorrect,Billing
+Need payment receipt,Billing
+Refund not processed,Billing
+App crashes while login,Technical
+Website is not loading,Technical
+Unable to connect to server,Technical
+Forgot password and cannot login,Technical
+Application freezes after update,Technical
+Printer not working,Technical
+Internet connection issue,Technical
+Software installation failed,Technical
+Email not syncing,Technical
+Laptop keeps restarting,Technical
+Need leave approval,HR
+Salary not credited,HR
+Request for experience certificate,HR
+Need payslip for June,HR
+Update bank account details,HR
+Apply for work from home,HR
+Medical leave request,HR
+Holiday policy clarification,HR
+Employee ID card request,HR
+Resignation process details,HR
+Office timing enquiry,General
+Need contact details of manager,General
+Where is the company located?,General
+How to access cafeteria?,General
+Parking facility available?,General
+Company holiday list,General
+Need visitor pass,General
+Meeting room booking process,General
+Who is my reporting manager?,General
+General enquiry regarding office facilities,General
+Urgent payment issue,Billing
+Server down immediately fix,Technical
+Urgent leave request,HR
+Need information about company events,General
+Payment receipt missing,Billing
+System not working after update,Technical
+HR policy for maternity leave,HR
+Office transport details,General
+Invoice amount mismatch,Billing
+Network outage affecting work,Technical
